@@ -1,0 +1,20 @@
+# local datasets (large)
+data/
+**/hf_cache/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
+
+# misc
+*.log
+agent-tools/
